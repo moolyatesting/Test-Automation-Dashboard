@@ -6,7 +6,7 @@
 
 <strong>* website            : http://moolya.com/</strong>
 
-<strong>* Licence             : <a href="http://choosealicense.com/licenses/mit/">MIT</a></strong>
+<strong>* Licence             : <a href="https://github.com/moolyatesting/Test-Automation-Dashboard/blob/master/LICENSE">MIT</a></strong>
 
 <strong>* contact             : yagnesh@moolya.com</strong>
 
